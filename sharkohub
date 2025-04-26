@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SharkoHub/SharkoHub/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Longsharko/sharkohub/main/sharkohub"))()
